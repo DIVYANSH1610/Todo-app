@@ -5,7 +5,7 @@ import { BrowserRouter } from 'react-router-dom'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/todo-app">
+    <BrowserRouter basename="/Todo-app">
       <App />
     </BrowserRouter>
   </React.StrictMode>
