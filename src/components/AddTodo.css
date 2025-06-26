@@ -1,0 +1,14 @@
+.input-data{
+  padding:6px;
+  width: min-content;
+}
+.input-data:focus{
+
+  outline: 2px solid rgb(80, 98, 119);
+}
+.add{
+   cursor: pointer;
+}
+.add:hover{
+  background-color: rgb(157, 85, 85);
+}
