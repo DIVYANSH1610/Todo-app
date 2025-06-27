@@ -1,10 +1,12 @@
 import {HashRouter as Router } from "react-router-dom";
+import 'bootstrap/dist/css/bootstrap.min.css'
 import AppName from "./components/AppName";
 import AddTodo from "./components/AddTodo";
 import Welcome from "./components/Welcome";
 import TodoItems from "./components/TodoItems";
 import "./App.css"; 
 import TodoItemsContextProvider from "./components/store/todo-items-store";
+
 
 
 function App() {

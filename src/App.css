@@ -9,12 +9,14 @@ input{
 }
 .item-container{
   text-align: left;
+  
 }
 .er{
   margin: 10px 5px;
 }
 .add{display: block;
   justify-items: left;
+  background-color: 
 }
 .todo-container{
   background-color: #353434;

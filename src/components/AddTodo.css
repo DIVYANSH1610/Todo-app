@@ -8,6 +8,9 @@
 }
 .add{
    cursor: pointer;
+  
+   
+   
 }
 .add:hover{
   background-color: rgb(157, 85, 85);
